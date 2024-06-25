@@ -1,6 +1,6 @@
 {
-  "storeHouse":[
-    {"sourceName":"自用","sourceUrl":"https://hub.gitmirror.com/https://raw.githubusercontent.com/PureiyaZhang/MTVBJ/main/自用.json"},
-    {"sourceName":"家用","sourceUrl":"https://hub.gitmirror.com/https://raw.githubusercontent.com/PureiyaZhang/MTVBJ/main/家用.json"}
+  "urls":[
+    {"name":"自用","url":"https://hub.gitmirror.com/https://raw.githubusercontent.com/PureiyaZhang/MTVBJ/main/自用.json"},
+    {"name":"家用","url":"https://hub.gitmirror.com/https://raw.githubusercontent.com/PureiyaZhang/MTVBJ/main/家用.json"}
   ]
 }
