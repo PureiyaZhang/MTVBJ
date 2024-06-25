@@ -1,12 +1,6 @@
 {
-  "urls":[
-    {
-      "url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/PureiyaZhang/MTVBJ/main/自用.json",
-      "name":"自用"
-    },
-    {
-      "url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/PureiyaZhang/MTVBJ/main/家用.json",
-      "name":"家用"
-    }
+  "storeHouse":[
+    {"sourceName":"自用","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/PureiyaZhang/MTVBJ/main/自用.json"},
+    {"sourceName":"家用","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/PureiyaZhang/MTVBJ/main/家用.json"}
   ]
 }
